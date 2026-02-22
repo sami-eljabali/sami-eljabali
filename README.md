@@ -1,5 +1,5 @@
 # 👋🏽 Hello, I'm Sami!
-🚀 Product focused | 🧭 Leader
+🚀 Product focused | 🧭 Leadership
 
 # Projects
 * 💸 [eTip](https://etip.io) - The #1 end-to-end digital tipping platform for businesses

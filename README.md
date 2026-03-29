@@ -12,8 +12,8 @@
 
 ### Developer Goodies
 * 🅺 [Kotlin Starter Project](https://github.com/sami-eljabali/kotlin-gradle-template)
-* 🍃 [Spring Boot + Webflux + Kotlin Project](https://github.com/sami-eljabali/todo-list-spring-boot-webflux-kotlin)
-* 📱 [Kotlin Compose Multiplatform Project](https://github.com/whether-jacket/weather-app-2026-cmp)
+* 🍃 [Kotlin + Spring Boot + Webflux Sample Project](https://github.com/sami-eljabali/todo-list-spring-boot-webflux-kotlin)
+* 📱 [Kotlin Compose Multiplatform Sample Project](https://github.com/whether-jacket/weather-app-2026-cmp)
 
 ### Apps
 * ✨ [Forever Stars macOS Screensaver](https://github.com/sami-eljabali/forever-stars-macos-screensaver) - macOS rendition of Windows Starfield screensaver

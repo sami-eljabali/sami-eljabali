@@ -19,8 +19,8 @@
 * ✨ [Forever Stars macOS Screensaver](https://github.com/sami-eljabali/forever-stars-macos-screensaver) - macOS rendition of Windows Starfield screensaver
 
 # Latest Blog Posts
+* [The Project I Kept Postponing (AI Didn't)](https://sami.eljabali.org/the-project-i-kept-postponing-ai-didnt/)
 * [Go Gray, Not Cray: Why You Should Grayscale Your Phone](https://sami.eljabali.org/go-gray-not-cray-why-you-should-grayscale-your-phone/)
-* [iTerm2 setup](https://sami.eljabali.org/iterm2-setup/)
 
 
 <!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=sami-eljabali&show_icons=true&theme=tokyonight) -->
